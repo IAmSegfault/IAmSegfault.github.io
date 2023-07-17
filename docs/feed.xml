@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>/</id>
+  <id>https://iamsegfault.github.io/</id>
   <title>Neonnsoft Devlog</title>
   <subtitle>A text based development log for games made by neonnsoft.</subtitle>
-  <updated>2023-07-17T02:20:44+00:00</updated>
+  <updated>2023-07-17T02:25:17+00:00</updated>
   <author>
     <name></name>
-    <uri>/</uri>
+    <uri>https://iamsegfault.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://iamsegfault.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="/"/>
+    href="https://iamsegfault.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <rights> © 2023  </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>TITLE</title>
-    <link href="/posts/test/" rel="alternate" type="text/html" title="TITLE" />
+    <link href="https://iamsegfault.github.io/posts/test/" rel="alternate" type="text/html" title="TITLE" />
     <published>2023-07-16T20:00:00+00:00</published>
   
     <updated>2023-07-16T20:00:00+00:00</updated>
   
-    <id>/posts/test/</id>
-    <content src="/posts/test/" />
+    <id>https://iamsegfault.github.io/posts/test/</id>
+    <content src="https://iamsegfault.github.io/posts/test/" />
     <author>
       <name></name>
     </author>

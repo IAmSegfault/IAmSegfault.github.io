@@ -44,7 +44,7 @@ const resource = [
 const allowedDomains = [
     
 
-    '',
+    'iamsegfault.github.io',
 
     
         's6.imgcdn.dev',
